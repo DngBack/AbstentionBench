@@ -1,0 +1,14 @@
+{
+  "dummy.json": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "num_items": 3
+  },
+  "gsm8k.json": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "num_items": 3
+  }
+}

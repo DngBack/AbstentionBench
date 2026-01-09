@@ -1,0 +1,62 @@
+[
+  {
+    "dataset_index": 0,
+    "question": "what color is the sky?",
+    "reference_answers": [
+      "blue",
+      "sky blue"
+    ],
+    "should_abstain": true,
+    "metadata": {
+      "question_type": "silly"
+    }
+  },
+  {
+    "dataset_index": 1,
+    "question": "what color is the sky?",
+    "reference_answers": [
+      "blue",
+      "sky blue"
+    ],
+    "should_abstain": true,
+    "metadata": {
+      "question_type": "silly"
+    }
+  },
+  {
+    "dataset_index": 2,
+    "question": "what color is the sky?",
+    "reference_answers": [
+      "blue",
+      "sky blue"
+    ],
+    "should_abstain": true,
+    "metadata": {
+      "question_type": "silly"
+    }
+  },
+  {
+    "dataset_index": 3,
+    "question": "what color is the sky?",
+    "reference_answers": [
+      "blue",
+      "sky blue"
+    ],
+    "should_abstain": true,
+    "metadata": {
+      "question_type": "silly"
+    }
+  },
+  {
+    "dataset_index": 4,
+    "question": "what color is the sky?",
+    "reference_answers": [
+      "blue",
+      "sky blue"
+    ],
+    "should_abstain": true,
+    "metadata": {
+      "question_type": "silly"
+    }
+  }
+]
