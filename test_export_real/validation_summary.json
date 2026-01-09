@@ -1,0 +1,26 @@
+{
+  "dummy.json": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "num_items": 10
+  },
+  "coconot.json": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "num_items": 3
+  },
+  "gsm8k.json": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "num_items": 3
+  },
+  "bbq.json": {
+    "valid": true,
+    "errors": [],
+    "warnings": [],
+    "num_items": 3
+  }
+}
